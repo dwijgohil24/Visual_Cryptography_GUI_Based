@@ -1,5 +1,5 @@
 # Visual_Cryptography_GUI_Based
-C-sharp project using windows app Form ( .Net Framework ) with GUI support, which will take two images from user selection and onclick "xor"  button do the encryption using xor image and on-click "origianl" will retrive back original image.
+C-sharp project using windows app Form ( .Net Framework ) with GUI support, which will take two images from user selection. Onclick "xor"  button do the encryption using xor operation.On-click "retrieve_img2" will retrive back original image2.
 
 ## Preview of Application :
 
