@@ -46,7 +46,7 @@
             // 
             this.pictureBox1.Location = new System.Drawing.Point(45, 48);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(256, 256);
+            this.pictureBox1.Size = new System.Drawing.Size(300, 300);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -54,7 +54,7 @@
             // 
             this.pictureBox2.Location = new System.Drawing.Point(412, 48);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(256, 256);
+            this.pictureBox2.Size = new System.Drawing.Size(300, 300);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
@@ -62,13 +62,13 @@
             // 
             this.pictureBox3.Location = new System.Drawing.Point(777, 48);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(256, 256);
+            this.pictureBox3.Size = new System.Drawing.Size(300, 300);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(129, 329);
+            this.button1.Location = new System.Drawing.Point(130, 364);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(102, 35);
             this.button1.TabIndex = 3;
@@ -78,7 +78,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(506, 329);
+            this.button2.Location = new System.Drawing.Point(507, 364);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(90, 35);
             this.button2.TabIndex = 4;
@@ -88,7 +88,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(870, 329);
+            this.button3.Location = new System.Drawing.Point(872, 364);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(85, 35);
             this.button3.TabIndex = 5;
@@ -100,17 +100,17 @@
             // 
             this.pictureBox4.Location = new System.Drawing.Point(1105, 48);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(256, 256);
+            this.pictureBox4.Size = new System.Drawing.Size(300, 300);
             this.pictureBox4.TabIndex = 6;
             this.pictureBox4.TabStop = false;
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(1212, 329);
+            this.button4.Location = new System.Drawing.Point(1218, 364);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(96, 35);
+            this.button4.Size = new System.Drawing.Size(119, 35);
             this.button4.TabIndex = 7;
-            this.button4.Text = "original";
+            this.button4.Text = "retrieve_img2";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
